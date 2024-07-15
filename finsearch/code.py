@@ -1,5 +1,4 @@
-# Team SSDG
-# main author : Gokul
+# Team D12
 import os
 import gymnasium as gym
 import numpy as np
